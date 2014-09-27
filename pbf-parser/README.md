@@ -19,7 +19,7 @@ that uses the parser to convert pbf files into xml files. See also [this blog en
 
 Download Protocol Buffers Compiler (`protoc.exe`): https://protobuf.googlecode.com/files/protoc-2.5.0-win32.zip
 
-set %PATH% so that it points to protoc.exe
+set `%PATH%` so that it points to protoc.exe.
 
 #### Protocol-Buffer sources
 
@@ -29,7 +29,7 @@ Extract sources and `cd` into python directory:
 
     cd protobuf-2.5.0\protobuf-2.5.0\python
 
-execute
+then execute
 
     python setup.py build
     python setup.py test
