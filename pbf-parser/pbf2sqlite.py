@@ -1,4 +1,3 @@
-# set PYTHONPATH=\about\Open-Street-Map\pbf-parser
 import os
 import sqlite3
 import sys
