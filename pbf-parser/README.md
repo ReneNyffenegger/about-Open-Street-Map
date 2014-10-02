@@ -16,6 +16,7 @@ Scripts that use `OSMpbfParser.py`:
 
 - [`https://github.com/ReneNyffenegger/about-Open-Street-Map/blob/master/pbf-parser/pbf2sqlite.py`](https://github.com/ReneNyffenegger/about-Open-Street-Map/blob/master/pbf-parser/pbf2sqlite.py): create an sqlite database and fill it with the content of the pbf. 
 [`https://github.com/ReneNyffenegger/about-Open-Street-Map/blob/master/pbf-parser/pbf2sqlite-erd.dia`](https://github.com/ReneNyffenegger/about-Open-Street-Map/blob/master/pbf-parser/pbf2sqlite-erd.dia) contains an ERD drawing for [dia](https://wiki.gnome.org/Apps/Dia).
+See also [this blog entry](http://renenyffenegger.blogspot.ch/2014/09/openstreetmap-convert-pbf-to-sqlite.html).
 
 ## Installing google's protocol buffers
 
