@@ -43,6 +43,10 @@ then execute
     python setup.py install
 
 
+### On Ubuntu
+
+    sudo apt-get install python-protobuf
+
 ## Links
 
 Links that were helpful:
